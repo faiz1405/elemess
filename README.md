@@ -1,6 +1,6 @@
 # Demo
 
-https://test-elemesid-elang-yudha-rakasiwi.vercel.app/
+https://elemesid.netlify.app/
 
 # stack technology
 
@@ -37,6 +37,17 @@ npm i || npm install
 ```
 npm start
 ```
+
+# Panduan deploy di Netlify
+
+- ketikan perintah ini di terminal
+
+```
+npm run build
+```
+
+- Pergi ke Netlify, dan upload secara manual
+- Pilih folder dengan nama build dan pilih upload
 
 # Soal 2
 
